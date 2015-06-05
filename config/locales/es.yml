@@ -1,7 +1,7 @@
 # Spanish strings go here for Rails i18n
 es:
-  :issues_reminder: "Recordatorios"
-  :reminder_settings: "Configurar recordatorios"
+  :issues_reminder: "Alertas"
+  :reminder_settings: "Config. alertas"
   :daily: "Diario"
   :weekly: "Semanal"
   :monthly: "Mensual"
@@ -28,7 +28,7 @@ es:
   :save: "Guardar"
   :roles: "Roles"
   :reminder_delete_confirmation: "Realmente quiere borrar este recordatorio ?"
-  :default_email_subject: "Recordatorio de peticiones Redmine"
+  :default_email_subject: "Recordatorio de Tareas"
   :permission_view_issue_reminder: "Ver Recordatorios"
   :reminder_created: "Recordatorio creado con éxito"
   :reminder_not_created: "Recordatorio no creado"
